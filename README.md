@@ -1,4 +1,3 @@
-# WhatsApp-analysis
 # WhatsApp-Analyzer
 Analyze WhatsApp chat
 
