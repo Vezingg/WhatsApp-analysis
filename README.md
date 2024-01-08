@@ -26,8 +26,10 @@ optional arguments:
   -d, --debug           Debug mode. Shows details for every parsed line.
   
 ## Flowchart
-
-             +------------------+
+----------------------
+Describe how the script identify and classify the chat
+```
+           +------------------+
       +----+    Empty line?   +----+
       |    +------------------+    |
       |                            |
@@ -66,3 +68,4 @@ optional arguments:
               +----------+----------------+
               |          Visualize        |
               +---------------------------+
+```
