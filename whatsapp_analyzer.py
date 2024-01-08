@@ -17,7 +17,7 @@ CLI Set
 """
 parser = argparse.ArgumentParser(
     description='Read and analyze whatsapp chat',
-    usage="python whatsapp_analyzer.py FIL E [-h] [-d] [-s] [-c]"
+    usage="python whatsapp_analyzer.py FILE [-h] [-d] [-s] [-c]"
 )
 
 stop_words_options = [ "arabic","bulgarian","catalan","czech","danish","dutch","english","finnish","french","german","hebrew","hindi","hungarian","indonesian","italian","malaysian","norwegian","polish","portuguese","romanian","russian","slovak","spanish","swedish","turkish","ukrainian","vietnamese"]
