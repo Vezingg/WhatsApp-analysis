@@ -3,6 +3,7 @@ Analyze WhatsApp chat
 
 The script reads an exported WhatsApp chat and then extracts the data. You may need to install some packages before running it.
 
+##### Run code
 python whatsapp_analyzer.py FILE -d
 
 ##### Supported Analysis
